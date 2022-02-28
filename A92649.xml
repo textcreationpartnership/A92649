@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the citizens of Edenborough, concerning, the maintaining of a warre for the King, against the Parliament of England. With the grounds and reasons of their present rising, in relation to the proceedings of Duke Hamilton, and his forces, and their imprisoning of the three great lords, who acted contrary to the desires of the Kirk and Kingdom. Likewise, the proceedings of the Northern Army, under the command of Sir Marmaduke Langdale, and the victorious successe of Major Gen. Lambert against them. As also, the taking of Appleby Castle in Westmerland, by Col. Harrison, and Major Sanderson, and the articles of agreement thereupon. Sent by messenger from Major Gen. Lambert to the Right Honourable, the Committee of Lords and Commons at Derby house, upon Thursday night last, being the 12. of this instant June. 1648.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92649</idno>
+            <idno type="STC">Wing S155</idno>
+            <idno type="STC">Thomason E449_23</idno>
+            <idno type="EEBO-CITATION">99858752</idno>
+            <idno type="PROQUEST">99858752</idno>
+            <idno type="VID">161866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the citizens of Edenborough, concerning, the maintaining of a warre for the King, against the Parliament of England. With the grounds and reasons of their present rising, in relation to the proceedings of Duke Hamilton, and his forces, and their imprisoning of the three great lords, who acted contrary to the desires of the Kirk and Kingdom. Likewise, the proceedings of the Northern Army, under the command of Sir Marmaduke Langdale, and the victorious successe of Major Gen. Lambert against them. As also, the taking of Appleby Castle in Westmerland, by Col. Harrison, and Major Sanderson, and the articles of agreement thereupon. Sent by messenger from Major Gen. Lambert to the Right Honourable, the Committee of Lords and Commons at Derby house, upon Thursday night last, being the 12. of this instant June. 1648.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.5: T.S.</note>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Edinburgh (Scotland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161866:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE CITIZENS OF <hi>EDENBORO<g ref="char:V">Ʋ</g>GH,</hi> CONCERNING, The maintaining of a Warre for the KING, againſt the PARLIA<g ref="char:EOLhyphen"/>MENT of ENGLAND.</p>
+            <p>WITH The Grounds and Reaſons of their preſent Riſing, in Relation to the proceedings of Duke <hi>Hamilton,</hi> and his Forces, and their impriſoning of three great Lords, who acted contrary to the Deſires of the Kirk and Kingdom.</p>
+            <p>LIKEWISE, The proceedings of the Northern Army, under the Command of Sir <hi>Marmaduke Langdale,</hi> and the victorious ſucceſſe of Major Gen. <hi>Lambert</hi> againſt them.</p>
+            <p>AS ALSO, The taking of APPLEBY Caſtle in Weſt<g ref="char:EOLhyphen"/>merland, by Col <hi>Harriſon</hi> and Major <hi>Sanderſon,</hi> and the Articles of Agreement thereupon.</p>
+            <p>SEnt by a Meſſenger from Major Gen. <hi>Lamber<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to the Right H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able, the Committee of Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds and Commons at <hi>Derby</hi> houſe, upon Thurſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay night laſt, being the 22. of this inſtant June. 1648. <add>June 24.</add>
+            </p>
+            <p>
+               <hi>LONDON. Printed for</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. C. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:161866:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:161866:2"/>
+            <head>A true Relation of the proceedings in the <hi>North,</hi> betwixt Major General <hi>Lambert,</hi> and Sir <hi>Marmaduke Langdale,</hi> by one that was with Major Gen <hi>Lambert</hi> at <hi>Perith</hi> in <hi>Cumberland,</hi> and the taking of <hi>Appleby</hi> Caſtle.</head>
+            <p>SIr <hi>Marmaduke Langdale</hi> about June 15. came into the Borders of Yorkſhire, about 6. miles off on this ſide Bowes, but Major Gen. Lam<g ref="char:EOLhyphen"/>bert drawing near to him, he retreated back 12. miles, Major Gen. Lambert followed him, and he drew back in policy to a bridge between Bowes and Cattrick to ingage the enemy, which they per<g ref="char:EOLhyphen"/>ceiving, purſued at a diſtance, but only ſome ſmall skermiſh between their Scouts, where he met with Col. Harriſon, who Commanded the horſe that went out of the South, who being joyned together,
+<pb n="2" facs="tcp:161866:3"/>faced about towards the Enemy, and ſo ſoone as the Enemy perſeived it he fled back ſo faſt as he could, Major Gen. LAM<g ref="char:EOLhyphen"/>BERT ſtill purſuing him till he came to Carlile, where he drew up his Army before the Towne, Iune the 13. hoping to ingage the enemy, but they were utterly unwil<g ref="char:EOLhyphen"/>ling to ingage, not ſomuch as aparty of Horſe to Skirmiſh, only ſome few Horſe that lay under the walls, under the Com<g ref="char:EOLhyphen"/>mand of our Musketers but durſt not come forth or make any ſaly forth out of the Town, He lay there one night but fin<g ref="char:EOLhyphen"/>ding the Countrey ſo bare, and impover<g ref="char:EOLhyphen"/>iſhed by Langdale, &amp; his Army he could not have proviſion for his men, and ſo re<g ref="char:EOLhyphen"/>treated to perith where he ſtayed till the Lancaſhire forces being 2000 beſides the party that was before Appleby Caſtle, which was ſurrendred to Collonel Harri<g ref="char:EOLhyphen"/>ſon) laſt Saturday being the 17. of June at 12 a Clock, came up to him, which Surrender was upon condition to march where they would, leaving their Armes
+<pb n="3" facs="tcp:161866:3"/>and all behinde them; but they were reſol<g ref="char:EOLhyphen"/>ved to go home and be quiet. And ſo ſoone as they were joyned, it is conceived they would march for Carlile, either to engage them to fight, or to beſiege the town. And certain it is, that the enemy were forced to ſet a guard of horſe upon their foote at a Bridges, to keepe their foote from runing away, they being moſt of them Array men. And they are much ſtraitned for proviſion; for a penny loafe is ſold for three pence in Carlile, as is certified by good hands.</p>
+            <p>Major Generall <hi>Lambert</hi> hath a very gallant Army, and is in number betwixt eight or nine Thouſand able fighting men, which in ſhort time will give a good account of their faithfull Service.</p>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:161866:4"/>
+            <head>A Declaration of the Kingdom of <hi>Scotland</hi> againſt Duke <hi>Hamilton,</hi> and their intentions not to riſe in a poſture of Warre againſt the Parli<g ref="char:EOLhyphen"/>ament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>IT is certified from <hi>Scotland,</hi> by a meſſenger ſent thither by Major Gen. <hi>Lambert</hi> to bring him certain Inteligence of the State of things there, who came to him on Friday night laſt being <hi>Iune</hi> 16. at <hi>Perith,</hi> That the 2. Regiments of Foote that mutinied in Edenburgh, and were marching to Ar<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, who hath a verry ſtrong party; but Hamilton hearing is, ſent a party of Horſe after them, and o<g ref="char:EOLhyphen"/>vertooke them at a pſſaage where they were to go over a water, &amp; brought them back again, and ſhot one man in the head of the Companies for ex<g ref="char:EOLhyphen"/>ample
+<pb n="5" facs="tcp:161866:4"/>to the reſt, and brought them back to <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> whereupon the City of <hi>Edenburgh</hi> roſe, de<g ref="char:EOLhyphen"/>clared themſelves abſolutely they would have no War againſt the Parliament of <hi>England,</hi> except the juſt grounds cleared, and did clap up 3. of the Ma<g ref="char:EOLhyphen"/>lignant Lords of <hi>Hamiltons</hi> party, their names are not yet known to the Relator: Generall <hi>Laſhley</hi> is made Governour of <hi>Edenburgh</hi> Caſtle by <hi>Edenburg</hi> men, and the Kirk, for the Kirk of <hi>Scotland,</hi> and <hi>Ar<g ref="char:EOLhyphen"/>giles</hi> party: And <hi>Hamilton</hi> liſts men, but before they come to a Randevouz, they run to <hi>Argile,</hi> that at their Randevouz, the appearance is very ſmall, ſo that it is not to be queſtioned, but in a ſhort time the whole Kingdom will be reduced to a firme comply once with the Parliament of <hi>England,</hi> and in my next I ſhall give you a more full account of the proceedings in that Kingdom, with the names of thoſe Lords impriſoned by the City of <hi>Edenburgh.</hi> So deſiring to be excuſed for the bejefneſſe of my writing, which is by occaſion of the Meſſengers haſt, I remain</p>
+            <closer>
+               <dateline>From my Quarters at Perith <date>June the</date> 17. 1648.</dateline>
+               <signed>Your humble devoted Servant <hi>T. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="6" facs="tcp:161866:5"/>
+            <p>By an expreſſe from Scotland, to the Committee of Lords and Commons at Darby houſe, upon Thurſday night laſt be<g ref="char:EOLhyphen"/>ing the 22. of this inſtant June, it was cer<g ref="char:EOLhyphen"/>tified, that two of Duke Hamiltons Regi<g ref="char:EOLhyphen"/>ments are revolted from him, and have de<g ref="char:EOLhyphen"/>clared for the Marqueſſe of Argile, and his party, being reſolved to diſſent their Ar<g ref="char:EOLhyphen"/>ticles of engagement, againſt the levying of a War, in oppoſition to the proceedings of the Parllaments of both Kingdoms. They have alſo ſecured the city &amp; caſtle for the Marques of Argile which was formerly under the power and Command of Duke Hamilton, and his party, and are reſolved to adventure lives and fortunes, both a<g ref="char:EOLhyphen"/>gainſt the Hamiltonians, and all others, that ſhall endeavour to diſturbe the peace and amity of either Kingdoms.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
